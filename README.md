@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./img/JavaScript-RPG-Main.png" width="400px" />
+  <a href="https://edtonatto.github.io/FREECODECAMP-JavaScript-RPG/" target="_blank"><img src="./img/JavaScript-RPG-Main.png" width="400px" /></a>
 </p>
 
 <div align="center">
   <a><img src="https://img.shields.io/badge/version-1.0.0-blue"/></a>
   <a href="https://github.com/EdTonatto/FREECODECAMP-JavaScript-RPG/actions/workflows/pages/pages-build-deployment"><img src="https://github.com/EdTonatto/FREECODECAMP-JavaScript-RPG/actions/workflows/pages/pages-build-deployment/badge.svg"/></a>
-  <a href="https://github.com/EdTonatto/password-manager/blob/main/LICENSE"><img src="https://img.shields.io/github/license/EdTonatto/password-manager.svg"/></a>
+  <a href="https://github.com/EdTonatto/FREECODECAMP-JavaScript-RPG/blob/main/LICENSE"><img src="https://img.shields.io/github/license/EdTonatto/FREECODECAMP-JavaScript-RPG.svg"/></a>
 </div>
 
 # FreeCodeCamp - Learn Basic JavaScript by Building a Role Playing Game
