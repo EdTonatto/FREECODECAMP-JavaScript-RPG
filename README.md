@@ -3,6 +3,8 @@
 </p>
 
 <div align="center">
+  <a><img src="https://img.shields.io/badge/version-1.0.0-blue"/></a>
+  <a href="https://github.com/EdTonatto/FREECODECAMP-JavaScript-RPG/actions/workflows/pages/pages-build-deployment"><img src="https://github.com/EdTonatto/FREECODECAMP-JavaScript-RPG/actions/workflows/pages/pages-build-deployment/badge.svg"/></a>
   <a href="https://github.com/EdTonatto/password-manager/blob/main/LICENSE"><img src="https://img.shields.io/github/license/EdTonatto/password-manager.svg"/></a>
 </div>
 
